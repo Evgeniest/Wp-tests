@@ -1,2 +1,2 @@
 # Wp-tests
-clen wordpress installation for testing
+clean wordpress installation for testing
